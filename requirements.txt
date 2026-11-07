@@ -1,0 +1,8 @@
+# MaaFramework 官方 Python 绑定（内含各平台动态库）
+maafw>=5.15.0
+# 图像解码 / 裁剪 / 缩放
+opencv-python>=4.8
+numpy>=1.24
+pillow>=10.0
+# 与浏览器通信（Chrome DevTools Protocol）
+websocket-client>=1.7
